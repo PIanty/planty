@@ -1,2 +1,0 @@
-# planty
-planty dApp
